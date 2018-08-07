@@ -1,15 +1,15 @@
 # kaggle Comp. Dogs vs Cat
 url : https://www.kaggle.com/c/dogs-vs-cats
 # following Hierarchy
-# file structures
+# folder structures
 data
-	train
+-train
+--dogs
+--cats
+-valid
 		dogs
 		cats
-	valid
-		dogs
-		cats
-	sample
+-sample
 		train
 			dogs
 			cats
