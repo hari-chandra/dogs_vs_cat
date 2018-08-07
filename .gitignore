@@ -1,0 +1,8 @@
+# Folders
+.ipynb_checkpoints/
+data/
+Weights/
+
+# Files
+train.zip
+.DS_Store
